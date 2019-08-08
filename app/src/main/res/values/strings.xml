@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListBook</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="welcome_message">Welcome to online book store</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="product_list">Product List</string>
+    <string name="purchase">good</string>
+</resources>
